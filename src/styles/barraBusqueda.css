@@ -1,0 +1,15 @@
+input {
+  min-width: 350px;
+  width: 55%;
+  height: 40px;
+  border-radius: 20px;
+  margin: 0 auto;
+  display: block;
+  border: none;
+  padding: 20px;
+  font-family: sans-serif
+}
+
+form {
+  width: 100%;
+}

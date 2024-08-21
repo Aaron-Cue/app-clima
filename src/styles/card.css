@@ -1,0 +1,13 @@
+.card {
+  border: 2px solid rgb(249, 255, 162);
+  width: 160px;
+  padding: 25px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  display: grid;
+  gap: 10px;
+  background-color: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(120px);
+  color: rgb(249, 255, 162);
+}

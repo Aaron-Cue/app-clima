@@ -1,0 +1,18 @@
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100dvw;
+  text-align: center;
+  padding: 8px;
+}
+
+h1 {
+  font-size: 45px;
+  font-family: cursive;
+  letter-spacing: 4px;
+  background: linear-gradient( #cbff3c, #40ffef);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

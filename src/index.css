@@ -1,0 +1,23 @@
+:root {
+  font-family:system-ui, sans-serif;
+  color: rgba(255, 255, 255, 0.85);
+  background-color: #242424;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 380px;
+  min-height: 100vh;
+  background: radial-gradient(ellipse at top,rgb(69, 149, 255), rgb(66, 99, 247) ,rgb(10, 10, 10));
+}
+
+
