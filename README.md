@@ -1,1 +1,1 @@
-clima-cities.netlify.app
+https://clima-cities.netlify.app/
