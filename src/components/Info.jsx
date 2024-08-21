@@ -3,6 +3,12 @@ import Card from '../components/Card';
 
 const Info = ({ data }) => {
   
+  if (data.cod === '404') {
+    return (
+      <div className="info"><h2>Ciudad no encontrada</h2></div>
+    )
+  }
+
   if (!data.main) {
     return null;
   }
